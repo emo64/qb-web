@@ -1,3 +1,6 @@
 > 1%
 last 2 versions
 not ie <= 8
+
+# for WebOS 4.x
+chrome 53
